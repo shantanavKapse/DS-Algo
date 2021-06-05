@@ -12,3 +12,4 @@ def bubbleSort(a):
     return a
 
 print(bubbleSort(arr))
+print("Array is now Sorted.")
